@@ -16,3 +16,6 @@ Use ExpressJS 4.0
 ### OpenShit RedHat Deployment
 1. Update config/auth.js with App client Id and Secrets 
 2. [Nodejs getting started guide OpenShift RedHat](https://developers.openshift.com/en/node-js-getting-started.html)
+
+### Demo URL
+[Demo](http://nodejs-chicagodevs.rhcloud.com)
